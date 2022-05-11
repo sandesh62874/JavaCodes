@@ -1,5 +1,22 @@
 /*Ciel and Receipt*/
 
+/*Tomya is a girl. She loves Chef Ciel very much.
+Tomya like a positive integer p, and now she wants to get a receipt of Ciel's restaurant whose total price is exactly p.
+The current menus of Ciel's restaurant are shown.*/
+
+/* Sample Input 1 
+4
+10
+256
+255
+4096
+Sample Output 1 
+2
+1
+8
+2 */
+
+
 import java.util.*;
 import java.lang.*;
 import java.io.*;
