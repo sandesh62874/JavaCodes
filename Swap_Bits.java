@@ -1,5 +1,22 @@
 /*Swap Bits*/
 
+/*Given a number, swap the adjacent bits in the binary representation of the number, and print the new number formed after swapping.*/
+
+/*Sample Input
+
+4
+10
+7
+43
+100
+
+Sample Output
+
+5
+11
+23
+152 */
+
 import java.io.*;
 import java.util.*;
 
