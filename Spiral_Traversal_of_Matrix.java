@@ -1,5 +1,17 @@
 /*Spiral Traversal of Matrix*/
 
+/*Given a 2D square matrix, print the matrix in a spiral order. Refer examples for more details. 
+ After you scan the matrix in a 2D array, try to print the matrix in a spiral order.*/
+
+/*Sample Input
+5
+-44 25 -52 69 -5 
+17 22 51 27 -44 
+-79 28 -78 1 -47 
+65 -77 -14 -21 -6 
+-96 43 -21 -20 90 
+  Sample output
+-44 25 -52 69 -5 -44 -47 -6 90 -20 -21 43 -96 65 -79 17 22 51 27 1 -21 -14 -77 28 -78 */
 import java.io.*;
 import java.util.*;
 
